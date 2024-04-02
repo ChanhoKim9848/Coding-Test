@@ -1,5 +1,6 @@
-class Solution:
-    def lemonadeChange(self, bills: List[int]) -> bool:
+class Solution(object):
+    def LemonadeChange(self, bills):
+        
         five=ten=0
         for i in bills:
             if i == 5: five+=1
@@ -8,5 +9,9 @@ class Solution:
             else: five-=3
             if five < 0: return False
         return True
+
+print(Solution.LemonadeChange(Solution,[5,5,5,10,20]))
+
+
 
         
