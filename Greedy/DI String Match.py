@@ -1,17 +1,24 @@
+import collections
 class Solution(object):
-    def diStringMatch(self, s):
-        l,r=0,len(s)
+    def diStringMatch_deque(self, s):
+
+        a=collections.deque(range(len(s) + 1))
         res=[]
-        for i in s:
-            if i=='I':
-                res.append(l)
-                l+=1
-            else:
-                res.append(r)
-                r-=1
-        res.append(l)
+
+        for i in s : 
+            if i == 'I':
+                res.append(a.popleft())
+            else:res.append(a.pop())
+        res.append(a.pop())
         return res
-print(Solution.diStringMatch(Solution,'IDID'))
+
+print(Solution.diStringMatch(Solution,"IDID"))
+
+
+
+
+
+
 
 
 
