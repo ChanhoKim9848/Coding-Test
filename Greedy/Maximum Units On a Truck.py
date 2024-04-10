@@ -1,20 +1,19 @@
 class Solution(object):
     def maximumUnits(self, boxTypes, truckSize):
-        sorted_boxTypes=[]
         res=0
-
+        boxTypes.sort(key=lambda x:-x[1])
         for n,unit in boxTypes:
-            sorted_boxTypes.append([unit,n])
-        sorted_boxTypes.sort(reverse=True)
-        for unit,n in sorted_boxTypes:
             if truckSize-n >=0:
                 truckSize-=n
                 res+=n*unit
             else:
                 res+=truckSize*unit
-                return res
+                break
         return res
+
+print(Solution.maximumUnits(Solution,[[1,3],[2,2],[3,1]],4))
         
+    
 
 
 
