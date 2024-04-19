@@ -17,6 +17,9 @@ class Solution(object):
 # Return 'res', which represents the minimum count of changes needed to convert the current time to the correct time.
         return res
 
+# time complexity O(1) would loop the denominators' list
+# space complexity O(1)  a,i, res need constant space
+
 print(Solution.convertTime(Solution,"02:30","04:35"))
 
 
