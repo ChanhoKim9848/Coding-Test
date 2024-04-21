@@ -1,12 +1,13 @@
 class Solution(object):
-    
-    def minimumCost(self,cost):
+    def minimumCost(self, cost):
         cost.sort()
         return sum(cost) - sum(cost[-3::-3])
-print(Solution.minimumCost(Solution,[3,3,3,1]))
+
+
+print(Solution.minimumCost(Solution, [3, 3, 3, 1]))
 
 # cost.sort(): This sorts the cost array in ascending order.
-# return sum(cost) - sum(cost[-3::-3]): This line calculates the total sum of all elements 
+# return sum(cost) - sum(cost[-3::-3]): This line calculates the total sum of all elements
 # in the cost array and then subtracts the sum of every third element
 # from the end (starting from the third-last element and moving backwards).
 
