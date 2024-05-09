@@ -5,6 +5,5 @@ class Solution(object):
         # seven
         # neves
         # (s,n) (e,e) (v,v) (e,e) (n,s)
-
 print(Solution.makeSmallestPalindrome(Solution,'seven'))
 
