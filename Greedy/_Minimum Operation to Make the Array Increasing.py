@@ -7,3 +7,6 @@ class Solution(object):
                 nums[i+1] += nums[i]-nums[i+1] + 1
         return res
 print(Solution.minOperations(Solution,[1,1,1]))
+
+
+# ssibal
