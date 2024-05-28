@@ -14,7 +14,11 @@ public class Solution {
    left at the beginning of the array and right at the end of the array.
 
    The loop continues until left and right converge (i.e., left < right).
+<<<<<<< HEAD
    
+=======
+
+>>>>>>> ace821594ee606687023a7757d33514acda3fe0b
    Calculate the midpoint mid of the current left and right indices.
    If the element at mid is less than the element at right, 
    it means the minimum value lies to the left of mid (including mid).
