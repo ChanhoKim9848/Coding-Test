@@ -10,6 +10,6 @@ If the counts are different, it means there were duplicates in the original list
     */
     public bool ContainsDuplicate(int[] nums) {
         HashSet<int> set = new HashSet<int>(nums);
-        return nums.Length != set.Count;
+        return set.Count != nums.Length;
     }
 }
