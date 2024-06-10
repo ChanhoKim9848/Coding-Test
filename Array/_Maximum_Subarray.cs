@@ -1,17 +1,13 @@
 public class Solution {
-	int sum = 0;
-	int maxSum = nums[0];
-
-	for (int i=0; i<nums.Length; i++) {
-		sum += nums[i];
-		if (nums[i] > sum) {
-			sum = nums[i];
-		}
-		if (sum > maxSum) { 
-			maxSum = sum; 
-		}
-	}
-	return maxSum;
+    public int MaxSubArray(int[] nums) {
+        int current=nums[0];
+        int max=nums[0];
+        for(int i=1; i<nums.Length;i++){
+            current=Math.Max(nums[i], current+nums[i]);
+            max=Math.Max(current, max);
+        }
+        return max;
+    }
 }
 /*
 The goal is to find the subarray within the given array nums that has the largest sum, and return that sum.
