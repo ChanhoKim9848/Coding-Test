@@ -13,7 +13,6 @@ public class Solution {
         return ans;
     }
 }
-
 // If there is no zero in an array, the solution is always one of the cumulative products starting from each ends. i.e.
 // For -2,3,3,-1,-5 :
 // Cumulative products from left end: -2,-6,-18,18,-90
