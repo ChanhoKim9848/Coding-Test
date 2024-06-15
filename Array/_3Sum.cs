@@ -2,14 +2,12 @@ public class Solution {
     public IList<IList<int>> ThreeSum(int[] nums) 
     {
         if (nums.Length < 3) return new List<IList<int>>();
-
         Array.Sort(nums);
         var triplets = new List<IList<int>>();
 
         for (int i = 0; i < nums.Length - 2; i++)
         {
             if (nums[i] > 0) break; // if the first number is greater than 0, then the sum cannot be 0
-
             if (i > 0 && nums[i] == nums[i - 1]) continue; // skipping repeated numbers to avoid repeating triples
 
             int left = i + 1;
@@ -33,7 +31,6 @@ public class Solution {
                     right--;
             }
         }
-
         return triplets;    
     }
 }
