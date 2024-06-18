@@ -5,9 +5,6 @@ public class Solution {
     // and we store the maximum difference between min and max prices
     // if the dif is higher than before, then we keep update dif
     // finally we can find the maximum dif and return it
-
-
-
     public int MaxProfit(int[] prices) {
         int dif = 0;
         int min = prices[0];
