@@ -1,14 +1,20 @@
 public class Solution {
     public int MaxSubArray(int[] nums) {
-        int current=nums[0];
-        int max=nums[0];
-        for(int i=1; i<nums.Length;i++){
-            current=Math.Max(nums[i], current+nums[i]);
-            max=Math.Max(current, max);
+        int s=0;
+        int res=nums[0];
+        foreach(int i in nums){
+            s+=i;
+            if (i>s){
+                s=i;
+            }
+            if (res<s){
+                res=s;
+            }
         }
-        return max;
+        return res;
     }
 }
+
 /*
 The goal is to find the subarray within the given array nums that has the largest sum, and return that sum.
 sum is initialized to 0. This variable will keep track of the current subarray sum.
