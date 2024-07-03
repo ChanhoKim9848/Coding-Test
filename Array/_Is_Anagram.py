@@ -15,7 +15,6 @@ class Solution:
             if countS[c] != countT.get(c,0):
                 return False
         return True
-    
     # we iterate two strings and count each character
     # and we compare if one string has exactly same characters as the other one. return True
     # we can use hashmap to count the number of each character of the string
