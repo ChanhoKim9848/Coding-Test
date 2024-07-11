@@ -26,3 +26,22 @@ class Solution:
 # Big O(s * c), space: O(s)
 
 print(Solution.groupAnagrams(Solution,["act","pots","tops","cat","stop","hat"]))
+
+
+class S(object):
+    def groupAnagrams(strs):
+        
+        hashMap=defaultdict(list)
+
+        for s in strs:
+            a=[0]*26 # a-z
+            for c in s:
+                a[ord(c)-ord('a')]+=1
+
+            hashMap[tuple(a)].append(s)
+        
+        return hashMap.values()
+
+print(S.groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
+
+        
