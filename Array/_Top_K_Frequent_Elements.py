@@ -18,4 +18,11 @@ class Solution(object):
                 result.append(num)
                 # Once we have k elements in the result, return it
                 if len(result) == k:
-                    return result
+                 return result
+                
+# The creation of the frequency_buckets list, which has a length of len(nums) + 1, is essentially 
+# O(N)
+# O(N) since it depends on the size of the input list.
+# Iterating over the frequency_map to populate the frequency_buckets list also takes 
+# O(N) time because the number of unique elements (keys) in frequency_map is at most 𝑁
+# N, and each insertion operation is 
