@@ -20,6 +20,8 @@ class Solution(object):
         return []
     
 
+
+
     def twoSum(self, nums, target):
         h={}
         for index,number in enumerate(nums):
