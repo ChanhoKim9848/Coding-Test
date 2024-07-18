@@ -1,40 +1,56 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = set()
-        #1. Split nums into three lists: negative numbers, positive numbers, and zeros
-        n, p, z = [], [], []
-        for num in nums:
-            if num > 0:
-                p.append(num)
-            elif num < 0: 
-                n.append(num)
-            else:
-                z.append(num)
-        #2. Create a separate set for negatives and positives for O(1) look-up times
-        N, P = set(n), set(p)
-        #3. If there is at least 1 zero in the list, add all cases where -num exists in N and num exists in P
-        #   i.e. (-3, 0, 3) = 0
-        if z:
-            for num in P:
-                if -1*num in N:
-                    res.add((-1*num, 0, num))
-        #3. If there are at least 3 zeros in the list then also include (0, 0, 0) = 0
-        if len(z) >= 3:
-            res.add((0,0,0))
-        #4. For all pairs of negative numbers (-3, -1), check to see if their complement (4)
-        #   exists in the positive number set
-        for i in range(len(n)):
-            for j in range(i+1,len(n)):
-                target = -1*(n[i]+n[j])
-                if target in P:
-                    res.add(tuple(sorted([n[i],n[j],target])))
+        res= []
+        nums.sort()
 
-        #5. For all pairs of positive numbers (1, 1), check to see if their complement (-2)
-        #   exists in the negative number set
-        for i in range(len(p)):
-            for j in range(i+1,len(p)):
-                target = -1*(p[i]+p[j])
-                if target in N:
-                    res.add(tuple(sorted([p[i],p[j],target])))
-        return res
+        for i,a in enumerate(nums):
+            # since we do not want to use the same value twice
+            # i>0 means it is not the first value
+            if i>0 and a == nums[i-1]:
+                continue
             
+            # if it is not, we use two pointer this time
+            # l is the next value, l is end of the array value
+            l, r = i+1, len(nums)-1
+
+            while l<r:
+                threeSum = a + nums[l] + nums[r]
+                # if threeSum >0
+                # we decrement r by 1, shift to the left
+                if threeSum > 0 :
+                    r-=1
+                # otherwise, l increments by 1, shift to the right
+                # we could this because the array is sorted in ascending order
+                elif threeSum < 0 :
+                    l+=1
+                else:
+                    # we add the result
+                    res.append([a,nums[l],nums[r]])
+                    # what if we have this kind of array
+                    # [-2, -2, 0, 0, 2, 2]
+                    #  l                r  this case 
+                    # then we want to update l + 1 as l=-2
+                    # [-2, -2, 0, 0, 2, 2]
+                    #       l           r
+                    # but it is again -2, this case we want to update
+                    # one more time to get over here
+                    # [-2, -2, 0, 0, 2, 2]
+                    #          l        r
+                    # and that case, now threeSum >0 
+                    # loop will execute r-1, right
+                    # but we notice that right value now is same as previous one
+                    # it is fine because our sum will evaluate sum and shift r again
+                    # therefore, each value will only have one corresponding value
+                    # that it can sum equal to 0
+                    # so we only update l, we don't want to have the same sum
+                    # we need to use loop above
+                    l+=1
+                    
+                    # if left value now and the previous one is same
+                    # and make sure l<r then we increment l again
+                    while nums[l]==nums[l-1] and l<r:
+                        l+=1
+            return res
+
+
+                    
