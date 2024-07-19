@@ -2,7 +2,6 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         res= []
         nums.sort()
-
         for i,a in enumerate(nums):
             # since we do not want to use the same value twice
             # i>0 means it is not the first value
