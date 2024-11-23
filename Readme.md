@@ -7,7 +7,7 @@ deleting first commit: "git update-ref -d HEAD"
 
 # LeetCode
 ##### Merge Strings Alternately (21/11/24) - O
-##### Greatest Common Divisor of Strings (21/10/24) - X X O
+##### Greatest Common Divisor of Strings (23/11/24) - O
 ##### Kids with the Greatest Number of Candies (16/10/24) - X O
 ##### Can Place Flowers (16/10/24) - X
 ##### Reverse Vowels of a String (17/10/24) - X
@@ -17,4 +17,5 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Greedy
 ##### 동전 0 - 11047 (21/11/24)
 ##### 강의실 배정 - 1931 (22/11/24)
+##### 로프 - 2217 (23/11/24)
 
