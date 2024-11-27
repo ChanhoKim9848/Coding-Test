@@ -11,7 +11,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Kids with the Greatest Number of Candies (16/10/24) - X O
 ##### Can Place Flowers (24/11/24) - X O
 ##### Reverse Vowels of a String (26/11/24) - X O
-##### Reverse Words in a String (18/10/24) - X
+##### Reverse Words in a String (26/11/24) - X X
 ##### Product of Array Except Self (19/10/24) - X
 # BaekJoon 
 ##### Greedy
