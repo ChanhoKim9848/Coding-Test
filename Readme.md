@@ -12,7 +12,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Can Place Flowers (24/11/24) - X O
 ##### Reverse Vowels of a String (26/11/24) - X O
 ##### Reverse Words in a String (26/11/24) - X X
-##### Product of Array Except Self (19/10/24) - X
+##### Product of Array Except Self (28/10/24) - X X
 # BaekJoon 
 ##### Greedy
 ##### 동전 0 - 11047 (21/11/24)
