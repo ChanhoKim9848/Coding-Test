@@ -23,11 +23,14 @@ class Solution(object):
 
 # Initialization: The lengths of str1 and str2 are stored in len1 and len2.
 
-# Divisor Check Function: The isDivisor(i) function checks if a substring of length i can evenly divide both strings. 
+# Divisor Check Function: The isDivisor(i) function checks if a substring of length i
+#  can evenly divide both strings. 
 # It first verifies that both lengths are divisible by i. 
-# Then, it checks if repeating the substring str1[:i] the appropriate number of times reconstructs both strings.
+# Then, it checks if repeating the substring str1[:i] 
+# the appropriate number of times reconstructs both strings.
 
-# Finding the GCD of Strings: The main loop iterates from the length of the shorter string down to 1
+# Finding the GCD of Strings: The main loop iterates
+# from the length of the shorter string down to 1
 # For each length i, it calls isDivisor(i). 
 # If a divisor is found, it returns the corresponding substring from str1.
 
