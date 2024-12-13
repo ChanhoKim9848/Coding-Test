@@ -9,9 +9,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Merge Strings Alternately (5/12/24)
 ##### Greatest Common Divisor of Strings (5/12/24) - O O
 ##### Kids with the Greatest Number of Candies (16/10/24) - X O
-##### Can Place Flowers (24/11/24) - X O
-##### Reverse Vowels of a String (26/11/24) - X O
-##### Reverse Words in a String (26/11/24) - X X
+##### Can Place Flowers (13/12/24) - X O
+##### Reverse Vowels of a String (13/12/24) - X O
+##### Reverse Words in a String (13/12/24) - X X O
 ##### Product of Array Except Self (28/10/24) - X X
 # BaekJoon 
 ##### Greedy
