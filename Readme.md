@@ -13,6 +13,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (13/12/24) - X O
 ##### Reverse Words in a String (13/12/24) - X X O
 ##### Product of Array Except Self (28/10/24) - X X
+##### Increasing Triplet Subsequence - X
 # BaekJoon 
 ##### Greedy
 ##### 동전 0 - 11047 (21/11/24)
