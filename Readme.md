@@ -6,14 +6,14 @@ deleting first commit: "git update-ref -d HEAD"
 ![Image](image.png)
 
 # LeetCode
-##### Merge Strings Alternately (5/12/24)
-##### Greatest Common Divisor of Strings (5/12/24) - O O
-##### Kids with the Greatest Number of Candies (16/10/24) - X O
-##### Can Place Flowers (13/12/24) - X O
-##### Reverse Vowels of a String (13/12/24) - X O
-##### Reverse Words in a String (13/12/24) - X X O
-##### Product of Array Except Self (28/10/24) - X X
-##### Increasing Triplet Subsequence - X
+##### Merge Strings Alternately (23/12/24) O
+##### Greatest Common Divisor of Strings (23/12/24) - O O O
+##### Kids with the Greatest Number of Candies (23/12/24) - X O O
+##### Can Place Flowers (23/12/24) - X O O
+##### Reverse Vowels of a String (23/12/24) - X O O
+##### Reverse Words in a String (23/12/24) - X X O O
+##### Product of Array Except Self (23/12/24) - X X O
+##### Increasing Triplet Subsequence (23/12/24) - X X 
 ##### Move Zeroes (19/12/24) - X
 ##### Is Subsequence (19/12/24) - X
 # BaekJoon 
@@ -24,4 +24,5 @@ deleting first commit: "git update-ref -d HEAD"
 ##### 보물 - 26/11/24
 ##### ATM - 26/11/24
 ##### 주식 - 19/12/24 - X
+##### 게임을 만든 동준이 - 19/12/24 - X
 
