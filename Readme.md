@@ -14,8 +14,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Words in a String (23/12/24) - X X O O
 ##### Product of Array Except Self (23/12/24) - X X O
 ##### Increasing Triplet Subsequence (23/12/24) - X X 
-##### Move Zeroes (19/12/24) - X
-##### Is Subsequence (19/12/24) - X
+##### Move Zeroes (25/12/24) - X X
+##### Is Subsequence (25/12/24) - X X
 # BaekJoon 
 ##### Greedy
 ##### 동전 0 - 11047 (21/11/24)
