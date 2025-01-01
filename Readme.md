@@ -17,7 +17,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Move Zeroes (25/12/24) - X X
 ##### Is Subsequence (25/12/24) - X X
 ##### String Compression (30/12/24) 
-##### Valid Anagram (01/01/25) - X
+##### Valid Anagram (01/01/25) - X 
 
 # BaekJoon 
 ##### Greedy
