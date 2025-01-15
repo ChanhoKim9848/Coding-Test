@@ -15,3 +15,13 @@ class Solution:
 
 # Time: O(N), where N <= 5*10^5 is length of nums array.
 # Space: O(N)
+
+# first=second=math.inf
+#         for n in nums:
+#             if n<=first:
+#                 first=n
+#             elif n<=second:
+#                 second=n
+#             else:
+#                 return True
+#         return False
