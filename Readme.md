@@ -16,8 +16,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Two Sum (13/01/25) - X O
 ##### Increasing Triplet Subsequence (15/01/25) - X 
 ##### Move Zeroes (15/01/25) - X X O
-##### Is Subsequence (25/12/24) - X X
-##### String Compression (30/12/24) 
+##### Is Subsequence (16/01/25) - X X O
+##### String Compression (16/01/25) - X
 ##### Valid Anagram (01/01/25) - X 
 ##### Top K Frequent Elements (15/01/25)
 ##### Valid Sudoku (15/01/25)
