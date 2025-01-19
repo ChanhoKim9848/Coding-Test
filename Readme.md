@@ -26,6 +26,7 @@ deleting first commit: "git update-ref -d HEAD"
 
 # BaekJoon 
 ##### Greedy
-##### 잃어버린 괄호 - 1541 (26/12/24) - X
+##### 잃어버린 괄호 - 1541 (JAN/17/25) - X O
+##### 주식 - (JAN/18/25) - X
 
 
