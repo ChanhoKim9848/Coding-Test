@@ -22,8 +22,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Group Anagrams (JAN/17/25) - X
 ##### Top K Frequent Elements (15/01/25) - X
 ##### Valid Sudoku (15/01/25) - X
-##### Longest Consequtive Sequence (15/01/25) -X
+##### Longest Consequtive Sequence (15/01/25) - X
 ##### 3Sum (JAN/20/25) - X
+##### Container with most water (JAN/21/25) - X
 
 # BaekJoon 
 ##### Greedy
