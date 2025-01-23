@@ -25,6 +25,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Longest Consequtive Sequence (15/01/25) - X
 ##### 3Sum (JAN/20/25) - X
 ##### Container with most water (JAN/21/25) - X
+##### Trapping Rain Water (JAN/23/25) - X
+##### Valid Parentheses (JAN/23/25) - X
 
 # BaekJoon 
 ##### Greedy
