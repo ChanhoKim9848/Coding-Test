@@ -27,6 +27,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Container with most water (JAN/21/25) - X
 ##### Trapping Rain Water (JAN/23/25) - X
 ##### Valid Parentheses (JAN/23/25) - X
+##### Min Stack (JAN/24/25) - X
 
 # BaekJoon 
 ##### Greedy
