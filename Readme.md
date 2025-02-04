@@ -6,10 +6,10 @@ deleting first commit: "git update-ref -d HEAD"
 ![Image](image.png)
 
 # LeetCode
-##### Greatest Common Divisor of Strings (14/01/25) - O O O O
-##### Can Place Flowers (14/01/25) - X O O O
-##### Reverse Words in a String (14/01/25) - X X O O O
-##### Product of Array Except Self (14/01/25) - X X O O
+##### Greatest Common Divisor of Strings (FEB/04/25) - O
+##### Can Place Flowers (FEB/04/25) - O
+##### Reverse Words in a String (FEB/04/25) - O
+##### Product of Array Except Self (FEB/04/25) - O
 ##### Kids with the Greatest Number of Candies (13/01/25) - X O O O
 ##### Reverse Vowels of a String (13/01/25) - X O O O
 ##### Contain Duplicate (13/01/25) - O
