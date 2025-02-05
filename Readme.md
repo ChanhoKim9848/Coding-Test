@@ -10,13 +10,13 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Can Place Flowers (FEB/04/25) - O
 ##### Reverse Words in a String (FEB/04/25) - O
 ##### Product of Array Except Self (FEB/04/25) - O
-##### Kids with the Greatest Number of Candies (13/01/25) - X O O O
-##### Reverse Vowels of a String (13/01/25) - X O O O
-##### Contain Duplicate (13/01/25) - O
-##### Two Sum (13/01/25) - X O
-##### Increasing Triplet Subsequence (15/01/25) - X 
-##### Move Zeroes (15/01/25) - X X O
-##### Is Subsequence (16/01/25) - X X O
+##### Kids with the Greatest Number of Candies (FEB/04/25) - O
+##### Reverse Vowels of a String (FEB/04/25) - O
+##### Contain Duplicate (FEB/04/25) - O
+##### Two Sum (FEB/05/25) - O
+##### Increasing Triplet Subsequence (FEB/05/25) - O
+##### Move Zeroes (FEB/05/25) - O
+##### Is Subsequence (FEB/05/25) - X
 ##### String Compression (16/01/25) - X
 ##### Valid Anagram (JAN/17/25) - X 
 ##### Group Anagrams (JAN/17/25) - X
