@@ -28,9 +28,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Trapping Rain Water (FEB/08/25) - X
 ##### Valid Palindrome (FEB/08/25) - O
 ##### Valid Palindrome II (FEB/08/25) - X
-##### Valid Parentheses (JAN/23/25) - X
-##### Min Stack (JAN/24/25) - X
-##### Evaluate Reverse Polish Notation (JAN/25/25) - X
+##### Valid Parentheses (FEB/08/25) - X
+##### Min Stack (FEB/09/25) - X
+##### Evaluate Reverse Polish Notation (FEB/11/25) - X
 
 # BaekJoon 
 ##### Greedy
