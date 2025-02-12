@@ -31,6 +31,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Valid Parentheses (FEB/08/25) - X
 ##### Min Stack (FEB/09/25) - X
 ##### Evaluate Reverse Polish Notation (FEB/11/25) - X
+##### Generate Parentheses (FEB/12/25) - X
 
 # BaekJoon 
 ##### Greedy
