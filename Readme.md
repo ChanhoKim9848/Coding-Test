@@ -20,8 +20,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### String Compression (FEB/16/25) - X O
 ##### Valid Anagram (FEB/17/25) - X O
 ##### Group Anagrams (FEB/17/25) - X O
-##### Top K Frequent Elements (FEB/06/25) - X
-##### Valid Sudoku (FEB/06/25) - X
+##### Top K Frequent Elements (FEB/17/25) - X X
+##### Valid Sudoku (FEB/17/25) - X X
 ##### Longest Consequtive Sequence (FEB/06/25) - X
 ##### 3Sum (FEB/07/25) - X
 ##### Container with most water (FEB/08/25) - X O
