@@ -1,29 +1,23 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        n=len(nums)
         nums.sort()
-        res= []
-        for i, a in enumerate(nums):
-            if a>0:
+        res=[]
+        for i in range(len(nums)):
+            if nums[i]>0:
                 break
-            if i>0 and nums[i]==nums[i-1]:  # if it is not first element and not same as prev one
+            if i>0 and nums[i]==nums[i-1]:
                 continue
-
-            l,r = i+1,n-1
-            # initialize left and right
+            l,r=i+1,len(nums)-1
             while l<r:
-
-                threeSum = a + nums[l] + nums[r]
-
-                if threeSum > 0 :
+                S=nums[i]+nums[l]+nums[r]
+                if S>0:
                     r-=1
-                elif threeSum <0 :
+                elif S<0:
                     l+=1
                 else:
-                    res.append([a,nums[l],nums[r]])
-                    r-=1
+                    res.append([nums[i],nums[l],nums[r]])
                     l+=1
-                    # increment left pointer till the prev one is not same
+                    r-=1
                     while l<r and nums[l]==nums[l-1]:
                         l+=1
         return res
