@@ -23,8 +23,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Top K Frequent Elements (FEB/19/25) - X X
 ##### Valid Sudoku (FEB/19/25) - X X
 ##### Longest Consequtive Sequence (FEB/20/25) - X X
-##### 3Sum (FEB/07/25) - X
-##### Container with most water (FEB/08/25) - X O
+##### 3Sum (FEB/21/25) - X X
+##### Container with most water (FEB/22/25) - X O
 ##### Trapping Rain Water (FEB/08/25) - X
 ##### Valid Palindrome (FEB/08/25) - O
 ##### Valid Palindrome II (FEB/08/25) - X
