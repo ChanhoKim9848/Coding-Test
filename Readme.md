@@ -25,9 +25,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Longest Consequtive Sequence (FEB/20/25) - X X
 ##### 3Sum (FEB/21/25) - X X
 ##### Container with most water (FEB/22/25) - X O
-##### Trapping Rain Water (FEB/08/25) - X
-##### Valid Palindrome (FEB/08/25) - O
-##### Valid Palindrome II (FEB/08/25) - X
+##### Trapping Rain Water (FEB/24/25) - X
+##### Valid Palindrome (FEB/24/25) - O O
+##### Valid Palindrome II (FEB/24/25) - X
 ##### Valid Parentheses (FEB/08/25) - X
 ##### Min Stack (FEB/09/25) - X
 ##### Evaluate Reverse Polish Notation (FEB/11/25) - X
