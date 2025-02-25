@@ -28,8 +28,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Trapping Rain Water (FEB/24/25) - X
 ##### Valid Palindrome (FEB/24/25) - O O
 ##### Valid Palindrome II (FEB/24/25) - X
-##### Valid Parentheses (FEB/08/25) - X
-##### Min Stack (FEB/09/25) - X
+##### Valid Parentheses (FEB/24/25) - X
+##### Min Stack (FEB/25/25) - X O
 ##### Evaluate Reverse Polish Notation (FEB/11/25) - X
 ##### Generate Parentheses (FEB/12/25) - X
 ##### Car Fleet (FEB/13/25) - X
