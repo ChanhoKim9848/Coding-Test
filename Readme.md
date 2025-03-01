@@ -33,6 +33,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Evaluate Reverse Polish Notation (FEB/26/25) - X O
 ##### Generate Parentheses (FEB/27/25) - X X
 ##### Car Fleet (FEB/27/25) - X X
+##### Daily Temperatures  (MAR/01/25) - X
 
 # BaekJoon 
 ##### Greedy
