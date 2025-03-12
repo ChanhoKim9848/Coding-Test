@@ -15,8 +15,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Two Sum (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Move Zeroes (FEB/05/25) - O
-##### Is Subsequence (FEB/16/25) - X O
+##### Move Zeroes (MAR/12/25) - O X
+##### Is Subsequence (MAR/12/25) - X O O
 ##### String Compression (FEB/16/25) - X O
 ##### Valid Anagram (FEB/17/25) - X O
 ##### Group Anagrams (FEB/17/25) - X O
