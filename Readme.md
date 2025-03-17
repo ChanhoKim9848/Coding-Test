@@ -22,8 +22,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Group Anagrams (MAR/14/25) - X O O
 ##### Top K Frequent Elements (MAR/14/25) - X X X
 ##### Valid Sudoku (MAR/16/25) - X X X
-##### Longest Consequtive Sequence (FEB/20/25) - X X
-##### 3Sum (FEB/21/25) - X X
+##### Longest Consequtive Sequence (MAR/17/25) - X X O
+##### 3Sum (MAR/17/25) - X X O
 ##### Container with most water (FEB/22/25) - X O
 ##### Trapping Rain Water (FEB/24/25) - X
 ##### Valid Palindrome (FEB/24/25) - O O
