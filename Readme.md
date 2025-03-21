@@ -29,7 +29,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Valid Palindrome (MAR/19/25) - O O O
 ##### Valid Palindrome II (MAR/19/25) - X O
 ##### Valid Parentheses (MAR/20/25) - X O
-##### Min Stack (FEB/25/25) - X O
+##### Min Stack (MAR/21/25) - X O O
 ##### Evaluate Reverse Polish Notation (FEB/26/25) - X O
 ##### Generate Parentheses (FEB/27/25) - X X
 ##### Car Fleet (FEB/27/25) - X X
