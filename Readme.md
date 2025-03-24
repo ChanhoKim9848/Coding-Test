@@ -32,7 +32,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Min Stack (MAR/21/25) - X O O
 ##### Evaluate Reverse Polish Notation (MAR/22/25) - X O O
 ##### Generate Parentheses (MAR/23/25) - X
-##### Car Fleet (FEB/27/25) - X X
+##### Car Fleet (MAR/24/25) - X
 ##### Daily Temperatures  (MAR/01/25) - X
 ##### Search A 2D Matrix (MAR/02/25) - X
 ##### Find Minimum in Rotated Sorted Array (MAR/05/25) - X
