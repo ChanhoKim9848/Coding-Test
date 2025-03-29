@@ -35,8 +35,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Car Fleet (MAR/24/25) - X
 ##### Daily Temperatures  (MAR/25/25) - X
 ##### Search A 2D Matrix (MAR/26/25) - X 
-##### Find Minimum in Rotated Sorted Array (MAR/05/25) - X
-##### Best Time to Buy A Stock (MAR/06/25) - X          
+##### Find Minimum in Rotated Sorted Array (MAR/29/25) - X
+##### Best Time to Buy A Stock (MAR/29/25) - O         
 # BaekJoon 
 ##### Greedy
 ##### 잃어버린 괄호 - 1541 (JAN/17/25) - X O
