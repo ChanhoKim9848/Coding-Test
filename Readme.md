@@ -31,7 +31,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Valid Parentheses (MAR/20/25) - X O
 ##### Min Stack (JUN/02/25) - O
 ##### Evaluate Reverse Polish Notation (JUN/03/25) - O
-##### Generate Parentheses (MAR/23/25) - X
+##### Generate Parentheses (JUN/04/25) - X
 ##### Car Fleet (MAR/24/25) - X
 ##### Daily Temperatures  (MAR/25/25) - X
 ##### Search A 2D Matrix (MAR/26/25) - X 
