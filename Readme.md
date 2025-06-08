@@ -32,8 +32,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Min Stack (JUN/02/25) - O
 ##### Evaluate Reverse Polish Notation (JUN/03/25) - O
 ##### Generate Parentheses (JUN/04/25) - X
-##### Car Fleet (MAR/24/25) - X
-##### Daily Temperatures  (MAR/25/25) - X
+##### Car Fleet (JUN/06/25) - X
+##### Daily Temperatures  (JUN/07/25) - X
 ##### Search A 2D Matrix (MAR/26/25) - X 
 ##### Find Minimum in Rotated Sorted Array (MAR/29/25) - X
 ##### Best Time to Buy A Stock (MAR/29/25) - O   
