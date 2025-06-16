@@ -35,9 +35,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Car Fleet (JUN/06/25) - X
 ##### Daily Temperatures  (JUN/07/25) - X
 ##### Search A 2D Matrix (JUN/08/25) - X 
-##### Find Minimum in Rotated Sorted Array (MAR/29/25) - X
+##### Find Minimum in Rotated Sorted Array (JUN/15/25) - X
+##### KoKo Eating Bananas (JUN/16/25) - X
 ##### Best Time to Buy A Stock (MAR/29/25) - O   
-##### KoKo Eating Bananas (APR/02/25) -       
 # BaekJoon 
 ##### Greedy
 ##### 잃어버린 괄호 - 1541 (JAN/17/25) - X O
