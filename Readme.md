@@ -38,6 +38,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Find Minimum in Rotated Sorted Array (JUN/15/25) - X
 ##### KoKo Eating Bananas (JUN/16/25) - X
 ##### Best Time to Buy A Stock (JUN/17/25) - X
+##### Longest Substring Without Repeating Characters (JUN/18/25) - X
 # BaekJoon 
 ##### Greedy
 ##### 잃어버린 괄호 - 1541 (JAN/17/25) - X O
