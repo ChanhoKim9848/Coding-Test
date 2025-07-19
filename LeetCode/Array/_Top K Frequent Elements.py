@@ -14,3 +14,18 @@ class Solution:
                 res.append(num)
                 if len(res) == k:
                     return res
+
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+
+        from collections import Counter
+
+        nums_counts = Counter(nums)
+
+        res = []
+        for i, v in nums_counts.items():
+            res.append([v, i])
+
+        res.sort(reverse=True)
+
+        return [i[1] for i in res[:k]]
