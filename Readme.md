@@ -15,12 +15,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Two Sum (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Move Zeroes (MAR/12/25) - O X
-##### Is Subsequence (MAR/12/25) - X O O
 ##### String Compression (MAR/13/25) - X O X
 ##### Valid Anagram (MAR/13/25) - X O O
 ##### Group Anagrams (MAR/14/25) - X O O
-##### Top K Frequent Elements (MAR/14/25) - X X X
 ##### Valid Sudoku (MAR/16/25) - X X X
 ##### Longest Consequtive Sequence (MAR/17/25) - X X O
 ##### 3Sum (MAR/17/25) - X X O
@@ -40,6 +37,10 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Best Time to Buy A Stock (JUN/17/25) - X
 ##### Longest Substring Without Repeating Characters (JUN/18/25) - X
 ##### Longest Repeating Character Replacement (JUL/18/25) - X
+##### Top K Frequent Elements (JUL/19/25) - X
+##### Move Zeroes (JUL/20/25) - O O
+##### Is Subsequence (JUL/20/25) - X O O O
+
 # BaekJoon 
 ##### Greedy
 ##### 잃어버린 괄호 - 1541 (JAN/17/25) - X O
