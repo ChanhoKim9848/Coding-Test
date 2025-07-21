@@ -13,9 +13,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Kids with the Greatest Number of Candies (MAR/11/25) - O
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
-##### Two Sum (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### String Compression (MAR/13/25) - X O X
 ##### Valid Anagram (MAR/13/25) - X O O
 ##### Group Anagrams (MAR/14/25) - X O O
 ##### Valid Sudoku (MAR/16/25) - X X X
@@ -40,6 +38,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Top K Frequent Elements (JUL/19/25) - X
 ##### Move Zeroes (JUL/20/25) - O O
 ##### Is Subsequence (JUL/20/25) - X O O O
+##### String Compression (JUL/21/25) - X O X O
+##### Two Sum (JUL/21/25) - O
 
 # BaekJoon 
 ##### Greedy
