@@ -14,8 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Valid Anagram (MAR/13/25) - X O O
-##### Group Anagrams (MAR/14/25) - X O O
 ##### Valid Sudoku (MAR/16/25) - X X X
 ##### Longest Consequtive Sequence (MAR/17/25) - X X O
 ##### 3Sum (MAR/17/25) - X X O
@@ -40,10 +38,13 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Is Subsequence (JUL/20/25) - X O O O
 ##### String Compression (JUL/21/25) - X O X O
 ##### Two Sum (JUL/21/25) - O
+##### Valid Anagram (JUL/22/25) - X O O O
+##### Group Anagrams (JUL/22/25) - X O O O
+
 
 # BaekJoon 
 ##### Greedy
 ##### 잃어버린 괄호 - 1541 (JAN/17/25) - X O
-##### 주식 - (JAN/18/25) - X
+##### 주식 - (JAN/18/25) - X    
 
 
