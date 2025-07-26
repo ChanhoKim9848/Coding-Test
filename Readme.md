@@ -14,7 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Trapping Rain Water (FEB/24/25) - X
 ##### Valid Palindrome (MAR/19/25) - O O O
 ##### Valid Palindrome II (MAR/19/25) - X O
 ##### Valid Parentheses (MAR/20/25) - X O
@@ -40,6 +39,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Longest Consequtive Sequence (JUL/23/25) - X
 ##### 3Sum (JUL/24/25) - X 
 ##### Container with most water (JUL/25/25) - X O O O
+##### Trapping Rain Water (JUL/25/25) - X
 
 
 # BaekJoon 
