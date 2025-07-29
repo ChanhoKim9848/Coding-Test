@@ -14,7 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Min Stack (JUN/02/25) - O
 ##### Evaluate Reverse Polish Notation (JUN/03/25) - O
 ##### Generate Parentheses (JUN/04/25) - X
 ##### Car Fleet (JUN/06/25) - X
@@ -39,7 +38,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Trapping Rain Water (JUL/26/25) - X
 ##### Valid Palindrome (JUL/27/25) - O 
 ##### Valid Palindrome II (JUL/28/25) - X O
-##### Valid Parentheses (JUL/28/25) - X O
+##### Valid Parentheses (JUL/29/25) - X O O
+##### Min Stack (JUL/29/25) - O
 
 
 # BaekJoon 
