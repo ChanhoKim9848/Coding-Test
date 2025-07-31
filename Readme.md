@@ -14,7 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Car Fleet (JUN/06/25) - X
 ##### Daily Temperatures  (JUN/07/25) - X
 ##### Search A 2D Matrix (JUN/08/25) - X 
 ##### Find Minimum in Rotated Sorted Array (JUN/15/25) - X
@@ -40,6 +39,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Min Stack (JUL/29/25) - O
 ##### Evaluate Reverse Polish Notation (JUL/30/25) - O
 ##### Generate Parentheses (JUL/30/25) - X
+##### Car Fleet (JUL/31/25) - O
 
 
 # BaekJoon 
