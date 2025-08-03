@@ -14,8 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Find Minimum in Rotated Sorted Array (JUN/15/25) - X
-##### KoKo Eating Bananas (JUN/16/25) - X
 ##### Best Time to Buy A Stock (JUN/17/25) - X
 ##### Longest Substring Without Repeating Characters (JUN/18/25) - X
 ##### Longest Repeating Character Replacement (JUL/18/25) - X
@@ -40,6 +38,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Car Fleet (JUL/31/25) - O
 ##### Daily Temperatures  (AUG/01/25) - X
 ##### Search A 2D Matrix (AUG/02/25) - O
+##### Find Minimum in Rotated Sorted Array (AUG/02/25) - X
+##### KoKo Eating Bananas (AUG/03/25) - X
 
 
 # BaekJoon 
