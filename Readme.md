@@ -9,7 +9,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Greatest Common Divisor of Strings (MAR/09/25) - O
 ##### Can Place Flowers (MAR/10/25) - O 
 ##### Reverse Words in a String (MAR/10/25) - O
-##### Product of Array Except Self (MAR/10/25) - O
 ##### Kids with the Greatest Number of Candies (MAR/11/25) - O
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
@@ -41,6 +40,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Longest Repeating Character Replacement (AUG/05/25) - X
 ##### Time Based Key-Value Store (AUG/11/25) - X
 ##### Top K Frequent Elements (AUG/14/25) - X O
+##### Product of Array Except Self (AUG/15/25) - X
 
 
 # BaekJoon 
