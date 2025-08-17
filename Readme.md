@@ -14,9 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
 ##### Move Zeroes (JUL/20/25) - O O
-##### Is Subsequence (JUL/20/25) - X O O O
-##### String Compression (JUL/21/25) - X O X O
-##### Two Sum (JUL/21/25) - O
 ##### Valid Anagram (JUL/22/25) - X O O O
 ##### Group Anagrams (JUL/22/25) - X O O O
 ##### Valid Sudoku (JUL/23/25) - X X X O
@@ -41,6 +38,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Time Based Key-Value Store (AUG/11/25) - X
 ##### Top K Frequent Elements (AUG/14/25) - X O
 ##### Product of Array Except Self (AUG/15/25) - X
+##### Is Subsequence (AUG/17/25) - O
+##### Two Sum (AUG/17/25) - O
+##### String Compression (AUG/17/25) - X
 
 
 # BaekJoon 
