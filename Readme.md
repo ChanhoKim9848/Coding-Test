@@ -13,8 +13,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Move Zeroes (JUL/20/25) - O O
-##### Valid Anagram (JUL/22/25) - X O O O
 ##### Group Anagrams (JUL/22/25) - X O O O
 ##### Valid Sudoku (JUL/23/25) - X X X O
 ##### Longest Consequtive Sequence (JUL/23/25) - X
@@ -41,6 +39,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Is Subsequence (AUG/17/25) - O
 ##### Two Sum (AUG/17/25) - O
 ##### String Compression (AUG/17/25) - X
+##### Move Zeroes (AUG/18/25) - O
+##### Valid Anagram (AUG/18/25) - O
 
 
 # BaekJoon 
