@@ -14,7 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
 ##### Valid Palindrome (JUL/27/25) - O 
-##### Valid Palindrome II (JUL/28/25) - X O
 ##### Valid Parentheses (JUL/29/25) - X O O
 ##### Min Stack (JUL/29/25) - O
 ##### Evaluate Reverse Polish Notation (JUL/30/25) - O
@@ -41,6 +40,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### 3Sum (AUG/22/25) - X 
 ##### Container with most water (AUG/24/25) - X O O O O
 ##### Trapping Rain Water (AUG/25/25) - X
+##### Valid Palindrome II (AUG/26/25) - X O O
 
 
 # BaekJoon 
