@@ -16,7 +16,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Valid Palindrome (JUL/27/25) - O 
 ##### Min Stack (JUL/29/25) - O
 ##### Evaluate Reverse Polish Notation (JUL/30/25) - O
-##### Generate Parentheses (JUL/30/25) - X
 ##### Car Fleet (JUL/31/25) - O
 ##### Daily Temperatures  (AUG/01/25) - X
 ##### Search A 2D Matrix (AUG/02/25) - O
@@ -41,6 +40,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Trapping Rain Water (AUG/25/25) - X
 ##### Valid Palindrome II (AUG/26/25) - X O O
 ##### Valid Parentheses (AUG/27/25) - X
+##### Generate Parentheses (AUG/28/25) - X O
 
 
 # BaekJoon 
