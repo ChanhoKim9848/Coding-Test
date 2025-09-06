@@ -40,8 +40,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Find Minimum in Rotated Sorted Array (SEP/02/25) - X
 ##### KoKo Eating Bananas (SEP/03/25) - X
 ##### Best Time to Buy A Stock (SEP/04/25) - O
-##### Longest Substring Without Repeating Characters (SEP/05/25) - X
 ##### Longest Palindromic Substring (SEP/06/25) - X
+##### Longest Substring Without Repeating Characters (SEP/06/25) - X
 
 
 # BaekJoon 
