@@ -42,6 +42,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Longest Substring Without Repeating Characters (SEP/06/25) - X
 ##### Longest Repeating Character Replacement (SEP/07/25) - X
 ##### Time Based Key-Value Store (SEP/08/25) - X
+##### Permutation In String (SEP/09/25) - X
 
 
 # BaekJoon 
