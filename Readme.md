@@ -6,7 +6,6 @@ deleting first commit: "git update-ref -d HEAD"
 ![Image](image.png)
 
 # LeetCode
-##### Greatest Common Divisor of Strings (MAR/09/25) - O
 ##### Can Place Flowers (MAR/10/25) - O 
 ##### Reverse Words in a String (MAR/10/25) - O
 ##### Kids with the Greatest Number of Candies (MAR/11/25) - O
@@ -45,6 +44,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Permutation In String (SEP/09/25) - X
 ##### Reverse Linked List - (SEP/13/25) - X
 ##### Merge Two Sorted Lists - (SEP/13/25) - X
+##### Greatest Common Divisor of Strings (SEP/14/25) - X
 
 # BaekJoon 
 ##### Greedy
