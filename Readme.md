@@ -42,9 +42,9 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Longest Repeating Character Replacement (SEP/07/25) - X
 ##### Time Based Key-Value Store (SEP/08/25) - X
 ##### Permutation In String (SEP/09/25) - X
-##### Reverse Linked List - (SEP/13/25) - X
-##### Merge Two Sorted Lists - (SEP/13/25) - X
-##### Greatest Common Divisor of Strings (SEP/14/25) - X
+##### Reverse Linked List - (SEP/15/25) - X
+##### Merge Two Sorted Lists - (SEP/15/25) - X
+##### Greatest Common Divisor of Strings (SEP/15/25) - X
 
 # BaekJoon 
 ##### Greedy
