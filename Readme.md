@@ -30,7 +30,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Generate Parentheses (AUG/28/25) - X O
 ##### Daily Temperatures  (AUG/29/25) - X O
 ##### Valid Palindrome (AUG/30/25) - O 
-##### Min Stack (AUG/30/25) - X
 ##### Evaluate Reverse Polish Notation (AUG/31/25) - O
 ##### Car Fleet (AUG/31/25) - O
 ##### Search A 2D Matrix (SEP/01/25) - O O
@@ -45,6 +44,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Linked List - (SEP/15/25) - X
 ##### Merge Two Sorted Lists - (SEP/15/25) - X
 ##### Greatest Common Divisor of Strings (SEP/15/25) - X
+##### Min Stack (SEP/21/25) - X O
 
 # BaekJoon 
 ##### Greedy
