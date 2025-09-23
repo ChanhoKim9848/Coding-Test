@@ -12,7 +12,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Top K Frequent Elements (AUG/14/25) - X O
 ##### Product of Array Except Self (AUG/15/25) - X
 ##### Is Subsequence (AUG/17/25) - O
 ##### Two Sum (AUG/17/25) - O
@@ -45,6 +44,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Merge Two Sorted Lists - (SEP/15/25) - X
 ##### Greatest Common Divisor of Strings (SEP/15/25) - X
 ##### Min Stack (SEP/21/25) - X O
+##### Top K Frequent Elements (SEP/23/25) - X O O
 
 # BaekJoon 
 ##### Greedy
