@@ -9,7 +9,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Can Place Flowers (MAR/10/25) - O 
 ##### Reverse Words in a String (MAR/10/25) - O
 ##### Kids with the Greatest Number of Candies (MAR/11/25) - O
-##### Reverse Vowels of a String (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
 ##### Is Subsequence (AUG/17/25) - O
@@ -38,13 +37,14 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Longest Substring Without Repeating Characters (SEP/06/25) - X
 ##### Longest Repeating Character Replacement (SEP/07/25) - X
 ##### Time Based Key-Value Store (SEP/08/25) - X
-##### Permutation In String (SEP/09/25) - X
 ##### Reverse Linked List - (SEP/15/25) - X
 ##### Merge Two Sorted Lists - (SEP/15/25) - X
 ##### Greatest Common Divisor of Strings (SEP/15/25) - X
 ##### Min Stack (SEP/21/25) - X O
 ##### Top K Frequent Elements (SEP/23/25) - X O O
 ##### Product of Array Except Self (SEP/25/25) - X O
+##### Permutation In String (SEP/09/25) - X
+##### Reverse Vowels of a String (SEP/28/25) - O
 
 # BaekJoon 
 ##### Greedy
