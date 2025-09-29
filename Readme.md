@@ -11,15 +11,11 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Kids with the Greatest Number of Candies (MAR/11/25) - O
 ##### Contain Duplicate (MAR/11/25) - O
 ##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Is Subsequence (AUG/17/25) - O
-##### Two Sum (AUG/17/25) - O
-##### String Compression (AUG/17/25) - X
 ##### Move Zeroes (AUG/18/25) - O
 ##### Valid Anagram (AUG/18/25) - O
 ##### Group Anagrams (AUG/19/25) - O
 ##### Valid Sudoku (AUG/20/25) - X X X O O
 ##### Longest Consequtive Sequence (AUG/21/25) - X
-##### 3Sum (AUG/22/25) - X 
 ##### Container with most water (AUG/24/25) - X O O O O
 ##### Trapping Rain Water (AUG/25/25) - X
 ##### Valid Palindrome II (AUG/26/25) - X O O
@@ -45,6 +41,10 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Product of Array Except Self (SEP/25/25) - X O
 ##### Permutation In String (SEP/09/25) - X
 ##### Reverse Vowels of a String (SEP/28/25) - O
+##### Is Subsequence (SEP/29/25) - O
+##### Two Sum (SEP/29/25) - O
+##### 3Sum (SEP/29/25) - X 
+##### String Compression (AUG/17/25) - X
 
 # BaekJoon 
 ##### Greedy
