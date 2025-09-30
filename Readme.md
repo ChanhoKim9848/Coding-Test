@@ -14,7 +14,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Move Zeroes (AUG/18/25) - O
 ##### Valid Anagram (AUG/18/25) - O
 ##### Group Anagrams (AUG/19/25) - O
-##### Valid Sudoku (AUG/20/25) - X X X O O
 ##### Longest Consequtive Sequence (AUG/21/25) - X
 ##### Container with most water (AUG/24/25) - X O O O O
 ##### Trapping Rain Water (AUG/25/25) - X
@@ -44,7 +43,8 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Is Subsequence (SEP/29/25) - O
 ##### Two Sum (SEP/29/25) - O
 ##### 3Sum (SEP/29/25) - X 
-##### String Compression (AUG/17/25) - X
+##### String Compression (SEP/30/25) - X O
+##### Valid Sudoku (SEP/30/25) - X
 
 # BaekJoon 
 ##### Greedy
