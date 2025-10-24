@@ -6,16 +6,15 @@ deleting first commit: "git update-ref -d HEAD"
 ![Image](image.png)
 
 # LeetCode
-##### Can Place Flowers (MAR/10/25) - O 
-##### Reverse Words in a String (MAR/10/25) - O
-##### Kids with the Greatest Number of Candies (MAR/11/25) - O
-##### Contain Duplicate (MAR/11/25) - O
-##### Increasing Triplet Subsequence (MAR/11/25) - O
-##### Move Zeroes (AUG/18/25) - O
-##### Valid Anagram (AUG/18/25) - O
-##### Group Anagrams (AUG/19/25) - O
-##### Trapping Rain Water (AUG/25/25) - X
-##### Valid Palindrome II (AUG/26/25) - X O O
+##### Can Place Flowers (OCT/21/25) - O 
+##### Reverse Words in a String (OCT/21/25) - O
+##### Kids with the Greatest Number of Candies (OCT/21/25) - O
+##### Contain Duplicate (OCT/21/25) - O
+##### Increasing Triplet Subsequence (OCT/21/25) - O
+##### Move Zeroes (OCT/22/25) - O
+##### Valid Anagram (OCT/22/25) - O
+##### Group Anagrams (OCT/22/25) - O
+##### Valid Palindrome II (OCT/22/25) - X O O O
 ##### Valid Parentheses (AUG/27/25) - X
 ##### Generate Parentheses (AUG/28/25) - X O
 ##### Daily Temperatures  (AUG/29/25) - X O
@@ -45,6 +44,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Valid Sudoku (SEP/30/25) - X
 ##### Longest Consequtive Sequence (OCT/01/25) - X O
 ##### Container with most water (OCT/01/25) - O
+##### Trapping Rain Water (AUG/25/25) - X
 
 # BaekJoon 
 ##### Greedy
