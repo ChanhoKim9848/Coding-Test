@@ -15,7 +15,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Valid Anagram (OCT/22/25) - O
 ##### Group Anagrams (OCT/22/25) - O
 ##### Valid Palindrome II (OCT/22/25) - X O O O
-##### Valid Parentheses (AUG/27/25) - X
+##### Valid Parentheses (OCE/22/25) - X O
 ##### Generate Parentheses (AUG/28/25) - X O
 ##### Daily Temperatures  (AUG/29/25) - X O
 ##### Valid Palindrome (AUG/30/25) - O 
