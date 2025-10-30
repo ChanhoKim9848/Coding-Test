@@ -18,7 +18,7 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Valid Parentheses (OCT/22/25) - X
 ##### Generate Parentheses (OCT/26/25) - X
 ##### Daily Temperatures  (OCT/27/25) - X O
-##### Valid Palindrome (AUG/30/25) - O 
+##### Valid Palindrome (OCT/30/25) - O 
 ##### Evaluate Reverse Polish Notation (AUG/31/25) - O
 ##### Car Fleet (AUG/31/25) - O
 ##### Search A 2D Matrix (SEP/01/25) - O O
