@@ -6,18 +6,6 @@ deleting first commit: "git update-ref -d HEAD"
 ![Image](image.png)
 
 # LeetCode
-##### Can Place Flowers (OCT/21/25) - O 
-##### Reverse Words in a String (OCT/21/25) - O
-##### Kids with the Greatest Number of Candies (OCT/21/25) - O
-##### Contain Duplicate (OCT/21/25) - O
-##### Increasing Triplet Subsequence (OCT/21/25) - O
-##### Move Zeroes (OCT/22/25) - O
-##### Valid Anagram (OCT/22/25) - O
-##### Group Anagrams (OCT/22/25) - O
-##### Valid Palindrome II (OCT/22/25) - X O O O
-##### Valid Parentheses (OCT/22/25) - X
-##### Generate Parentheses (OCT/26/25) - X
-##### Daily Temperatures  (OCT/27/25) - X O
 ##### Valid Palindrome (OCT/30/25) - O 
 ##### Evaluate Reverse Polish Notation (AUG/31/25) - O
 ##### Car Fleet (AUG/31/25) - O
@@ -39,12 +27,24 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Reverse Vowels of a String (SEP/28/25) - O
 ##### Is Subsequence (SEP/29/25) - O
 ##### Two Sum (SEP/29/25) - O
-##### 3Sum (SEP/29/25) - X 
 ##### String Compression (SEP/30/25) - X O
 ##### Valid Sudoku (SEP/30/25) - X
 ##### Longest Consequtive Sequence (OCT/01/25) - X O
 ##### Container with most water (OCT/01/25) - O
 ##### Trapping Rain Water (AUG/25/25) - X
+##### Can Place Flowers (OCT/21/25) - O 
+##### Reverse Words in a String (OCT/21/25) - O
+##### Kids with the Greatest Number of Candies (OCT/21/25) - O
+##### Contain Duplicate (OCT/21/25) - O
+##### Increasing Triplet Subsequence (OCT/21/25) - O
+##### Move Zeroes (OCT/22/25) - O
+##### Valid Anagram (OCT/22/25) - O
+##### Group Anagrams (OCT/22/25) - O
+##### Valid Palindrome II (OCT/22/25) - X O O O
+##### Valid Parentheses (OCT/22/25) - X
+##### Generate Parentheses (OCT/26/25) - X
+##### Daily Temperatures  (OCT/27/25) - X O
+##### 3Sum (OCT/31/25) - X 
 
 # BaekJoon 
 ##### Greedy
