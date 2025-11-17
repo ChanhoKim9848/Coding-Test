@@ -41,10 +41,10 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Find Minimum in Rotated Sorted Array (NOV/06/25) - X
 ##### KoKo Eating Bananas (NOV/06/25) - X O
 ##### Best Time to Buy A Stock (NOV/07/25) - O
-##### Longest Substring Without Repeating Characters (NOV/10/25) - X
 ##### Longest Repeating Character Replacement (SEP/07/25) - X
 ##### Longest Consequtive Sequence (OCT/01/25) - X O
 ##### Longest Palindromic Substring (NOV/17/25) - X
+##### Longest Substring Without Repeating Characters (NOV/17/25) - X
 
 # BaekJoon 
 ##### Greedy
