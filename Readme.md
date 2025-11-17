@@ -6,10 +6,6 @@ deleting first commit: "git update-ref -d HEAD"
 ![Image](image.png)
 
 # LeetCode
-##### Best Time to Buy A Stock (SEP/04/25) - O
-##### Longest Palindromic Substring (SEP/06/25) - X
-##### Longest Substring Without Repeating Characters (SEP/06/25) - X
-##### Longest Repeating Character Replacement (SEP/07/25) - X
 ##### Time Based Key-Value Store (SEP/08/25) - X
 ##### Reverse Linked List - (SEP/15/25) - X
 ##### Merge Two Sorted Lists - (SEP/15/25) - X
@@ -23,7 +19,6 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Two Sum (SEP/29/25) - O
 ##### String Compression (SEP/30/25) - X O
 ##### Valid Sudoku (SEP/30/25) - X
-##### Longest Consequtive Sequence (OCT/01/25) - X O
 ##### Container with most water (OCT/01/25) - O
 ##### Trapping Rain Water (AUG/25/25) - X
 ##### Can Place Flowers (OCT/21/25) - O 
@@ -45,6 +40,11 @@ deleting first commit: "git update-ref -d HEAD"
 ##### Search A 2D Matrix (NOV/02/25) - O O O
 ##### Find Minimum in Rotated Sorted Array (NOV/06/25) - X
 ##### KoKo Eating Bananas (NOV/06/25) - X O
+##### Best Time to Buy A Stock (NOV/07/25) - O
+##### Longest Substring Without Repeating Characters (NOV/10/25) - X
+##### Longest Repeating Character Replacement (SEP/07/25) - X
+##### Longest Consequtive Sequence (OCT/01/25) - X O
+##### Longest Palindromic Substring (NOV/17/25) - X
 
 # BaekJoon 
 ##### Greedy
